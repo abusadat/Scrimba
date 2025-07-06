@@ -1,0 +1,30 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.image {
+    width: 300px
+    /* border-bottom: thick double #32a1ce; */
+}
+
+.card {
+    width: 800px;
+    margin: 100px auto;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    background-color: #1E1E2F;
+    border: 10px solid #00BFA6;
+    border-radius: 5px;
+
+
+}
+
+.card-text {
+    margin: auto;
+    text-align: center;
+    color: #E0E0E0;
+}
+.accent {
+    color: #00BFA6
+}
